@@ -1,1 +1,9 @@
 # Flex-and-Grid
+
+# solve FLEXBOX FROGGY
+![FLEXBOX FROGGY](./FLEXBOX%20FROGGY.jpeg)
+
+# solve GRID GARDEN
+
+![GRID GARDEN](./GRID%20GARDEN.jpeg)
+
